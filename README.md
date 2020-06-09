@@ -23,14 +23,14 @@ Arduino    Stepper shield (LM293)
 Arduino    ServoMotor
   D10             PWM
   
-  Arduino    Display Nokia5125
+Arduino    Display Nokia5125
   D3              RST
   GND             CE
   D15(A1)         DC
   D9              DIN
   D8              CLK
   
-  Arduino    SD Card
+Arduino    SD Card
   D12             MISO
   D13             SCK
   D11             MOSI
